@@ -146,7 +146,7 @@ while True:
             if valid(keyword, word):
                 slot.append(keyword)
                 print('----------------------------')
-                print('lol XD 555 now')
+                print('lol XD')
                 print_board(life)
                 print('----------------------------')
                 displayLetter(word, slot)
